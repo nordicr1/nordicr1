@@ -13,4 +13,6 @@
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> <br/>
 
+![snake gif](https://github.com/nordicr1/nordicr1/blob/output/github-contribution-grid-snake.gif)
+
 Gosto de jogar um pouco de cs go e um LOLzinho
