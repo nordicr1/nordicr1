@@ -2,6 +2,8 @@
 
 ![nordicr1 GitHub stats](https://github-readme-stats.vercel.app/api?username=nordicr1&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nordicr1)](https://github.com/nordicr1/github-readme-stats)
+
 ### Tecnologias que amo 👨🏼‍💻
 
 <div style="display: inline_block"><br/>
