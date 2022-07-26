@@ -16,4 +16,3 @@
 
 ![snake gif](https://github.com/nordicr1/nordicr1/blob/output/github-contribution-grid-snake.svg)
 
-Gosto de jogar um pouco de cs go e um LOLzinho
