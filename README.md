@@ -1,6 +1,8 @@
 ### Olá, sou Ramon Souza ! ✌️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nordicr1)](https://github.com/nordicr1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nordicr1&layout=compact&theme=tokyonight)](https://github.com/nordicr1/github-readme-stats)
+
+
 
 ### Tecnologias que amo 👨🏼‍💻
 
