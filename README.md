@@ -1,12 +1,12 @@
 ### Olá, sou Ramon Souza ! ✌
 ### Sou apenas um programador iniciante que a cada dia quero aprender mais e mais. Iniciei meus estudos em Janeiro de 2022 e até então venho aprendendo JavaScript, CSS, HTML e ReactJs e React native. Sou um cara que não vejo o desafio com um problema, mas como oportunidade de aprender mais.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nordicr1&layout=compact&theme=tokyonight)](https://github.com/nordicr1/github-readme-stats)
-<br/>
 <br/>
 
-# Teste 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nordicr1&repo=JogoGenius)](https://github.com/nordicr1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nordicr1&layout=compact&theme=tokyonight)](https://github.com/nordicr1/github-readme-stats)
+
+<br/>
+
 
 ### Tecnologias que amo 👨🏼‍💻
 
